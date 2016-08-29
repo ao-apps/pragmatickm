@@ -1,0 +1,12 @@
+[submodule "pragmatickm-contact"]
+	path = pragmatickm-contact
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact
+[submodule "pragmatickm-password"]
+	path = pragmatickm-password
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password
+[submodule "pragmatickm-procedure"]
+	path = pragmatickm-procedure
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure
+[submodule "pragmatickm-task"]
+	path = pragmatickm-task
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-task
