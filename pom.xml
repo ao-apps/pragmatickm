@@ -247,20 +247,9 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	</dependencies>
 
 	<modules>
-		<!-- TODO
-		<module>semanticcms-autogit</module>
-		<module>semanticcms-core</module>
-		<module>semanticcms-dia</module>
-		<module>semanticcms-file</module>
-		<module>semanticcms-openfile</module>
-		<module>semanticcms-pagegraph</module>
-		<module>semanticcms-section</module>
-		<module>semanticcms-sitemap-servlet</module>
-		<module>semanticcms-theme-documentation</module>
-		<module>semanticcms-theme-documentation-style</module>
-		<module>semanticcms-view-all</module>
-		<module>semanticcms-view-tree</module>
-		<module>semanticcms-view-what-links-here</module>
-		-->
+		<module>pragmatickm-contact</module>
+		<module>pragmatickm-password</module>
+		<module>pragmatickm-procedure</module>
+		<module>pragmatickm-task</module>
 	</modules>
 </project>
