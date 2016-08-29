@@ -46,14 +46,16 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 		</developer>
 	</developers>
 
-	<!--
 	<scm>
+		<!--
 		<connection>scm:git:git://github.com/aoindustries/pragmatickm.git</connection>
-		<developerConnection>scm:git:git@github.com:aoindustries/pragmatickm.git</developerConnection>
+		-->
+		<developerConnection>scm:git:ssh://private.cvs.aoindustries.com/var/git/pragmatickm</developerConnection>
+		<!--
 		<url>http://github.com/aoindustries/pragmatickm</url>
+		-->
 		<tag>HEAD</tag>
 	</scm>
-	-->
 
 	<repositories>
 		<!--
