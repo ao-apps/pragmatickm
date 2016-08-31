@@ -18,7 +18,8 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	<modelVersion>4.0.0</modelVersion>
 
 	<prerequisites>
-		<maven>3.0.4</maven>
+		<!-- 3.3.1 required for extensions.xml -->
+		<maven>3.3.1</maven>
 	</prerequisites>
 
 	<groupId>com.pragmatickm</groupId>
@@ -113,14 +114,6 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	</properties>
 
 	<build>
-		<extensions>
-			<!-- Enabling the use of SSH -->
-			<extension>
-				<groupId>org.apache.maven.wagon</groupId>
-				<artifactId>wagon-ssh-external</artifactId>
-				<version>2.10</version>
-			</extension>
-		</extensions>
 		<pluginManagement>
 			<plugins>
 				<plugin>
