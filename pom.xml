@@ -75,7 +75,13 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 			<id>java.net2</id>
 			<name>Repository hosting the jee6 artifacts</name>
 			<url>http://download.java.net/maven/2</url>
-			<updatePolicy>never</updatePolicy>
+			<releases>
+				<enabled>true</enabled>
+				<updatePolicy>never</updatePolicy>
+			</releases>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
 		</repository>
 	</repositories>
 
