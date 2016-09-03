@@ -10,3 +10,6 @@
 [submodule "pragmatickm-task"]
 	path = pragmatickm-task
 	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-task
+[submodule "pragmatickm-all"]
+	path = pragmatickm-all
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-all

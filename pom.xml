@@ -251,6 +251,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	</dependencies>
 
 	<modules>
+		<module>pragmatickm-all</module>
 		<module>pragmatickm-contact</module>
 		<module>pragmatickm-password</module>
 		<module>pragmatickm-procedure</module>
