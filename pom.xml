@@ -59,7 +59,10 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	</scm>
 
 	<repositories>
-		<!--
+		<repository>
+			<id>pragmatickm-repository</id>
+			<url>scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm</url>
+		</repository>
 		<repository>
 			<id>sonatype-nexus-snapshots</id>
 			<name>Sonatype Nexus Snapshots</name>
@@ -70,11 +73,6 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
-		</repository>
-		-->
-		<repository>
-			<id>pragmatickm-repository</id>
-			<url>scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm</url>
 		</repository>
 		<repository>
 			<id>java.net2</id>
