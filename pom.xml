@@ -30,6 +30,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	<name>PragmaticKM</name>
 	<url>https://pragmatickm.com/</url>
 	<description>Parent POM for all PragmaticKM packages.</description>
+	<inceptionYear>2016</inceptionYear>
 
 	<licenses>
 		<license>
@@ -37,6 +38,11 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 			<url>https://pragmatickm.com/licenses/pragmatickm-1.0.txt</url>
 		</license>
 	</licenses>
+
+	<organization>
+		<name>AO Industries, Inc.</name>
+		<url>https://www.aoindustries.com/</url>
+	</organization>
 
 	<developers>
 		<developer>
