@@ -28,7 +28,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	<packaging>pom</packaging>
 
 	<name>PragmaticKM</name>
-	<url>https://pragmatickm.com/docs/pragmatickm/</url>
+	<url>https://pragmatickm.com/</url>
 	<description>Parent POM for all PragmaticKM packages.</description>
 
 	<licenses>
@@ -120,6 +120,19 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 					<configuration>
 						<source>1.6</source>
 						<target>1.6</target>
+					</configuration>
+				</plugin>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-javadoc-plugin</artifactId>
+					<version>2.10.4</version>
+					<configuration>
+						<links>
+							<!-- Stay on Java EE Web API 6 -->
+							<link>https://tomcat.apache.org/tomcat-7.0-doc/servletapi/</link>
+							<link>https://tomcat.apache.org/tomcat-7.0-doc/jspapi/</link>
+							<link>https://tomcat.apache.org/tomcat-7.0-doc/elapi/</link>
+						</links>
 					</configuration>
 				</plugin>
 			</plugins>
