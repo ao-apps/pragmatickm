@@ -124,7 +124,9 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-compiler-plugin</artifactId>
 					<configuration>
-						<compilerArgs>-Xlint</compilerArgs>
+						<compilerArgs>
+							<arg>-Xlint</arg>
+						</compilerArgs>
 						<showDeprecation>true</showDeprecation>
 						<showWarnings>true</showWarnings>
 						<source>1.6</source>
