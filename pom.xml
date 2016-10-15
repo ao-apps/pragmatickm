@@ -215,6 +215,13 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 								</compilerArguments>
 							</configuration>
 						</plugin>
+						<plugin>
+							<groupId>org.apache.maven.plugins</groupId>
+							<artifactId>maven-javadoc-plugin</artifactId>
+							<configuration>
+								<bootclasspath>${bootclasspath.jdk16}</bootclasspath>
+							</configuration>
+						</plugin>
 					</plugins>
 				</pluginManagement>
 			</build>
