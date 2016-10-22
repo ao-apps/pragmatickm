@@ -48,6 +48,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 		<developer>
 			<name>AO Industries, Inc.</name>
 			<email>support@aoindustries.com</email>
+			<url>https://www.aoindustries.com/</url>
 			<organization>AO Industries, Inc.</organization>
 			<organizationUrl>https://www.aoindustries.com/</organizationUrl>
 		</developer>
@@ -59,7 +60,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 		-->
 		<developerConnection>scm:git:ssh://private.cvs.aoindustries.com/var/git/pragmatickm</developerConnection>
 		<!--
-		<url>http://github.com/aoindustries/pragmatickm</url>
+		<url>https://github.com/aoindustries/pragmatickm</url>
 		-->
 		<tag>HEAD</tag>
 	</scm>
