@@ -152,7 +152,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	<build>
 		<pluginManagement>
 			<plugins>
-				<!-- Default to using -Xlint and showing warnings as Java 1.6 -->
+				<!-- Default to using -Xlint and showing warnings -->
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-compiler-plugin</artifactId>
