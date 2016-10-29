@@ -3,6 +3,7 @@ Parent POM for all [PragmaticKM](https://pragmatickm.com/) packages.
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/)
+* [Changelog](https://pragmatickm.com/changelog)
 * [Maven Repository](scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm)
 * [Git](ssh://private.cvs.aoindustries.com/var/git/pragmatickm)
 
