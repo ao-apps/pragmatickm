@@ -541,10 +541,10 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 	</dependencyManagement>
 
 	<modules>
-		<module>pragmatickm-all</module>
-		<module>pragmatickm-contact</module>
-		<module>pragmatickm-password</module>
-		<module>pragmatickm-procedure</module>
-		<module>pragmatickm-task</module>
+		<module>all</module>
+		<module>contact</module>
+		<module>password</module>
+		<module>procedure</module>
+		<module>task</module>
 	</modules>
 </project>

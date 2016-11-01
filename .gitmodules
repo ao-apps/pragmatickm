@@ -13,3 +13,18 @@
 [submodule "pragmatickm-all"]
 	path = pragmatickm-all
 	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-all
+[submodule "all"]
+	path = all
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-all
+[submodule "contact"]
+	path = contact
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact
+[submodule "password"]
+	path = password
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password
+[submodule "procedure"]
+	path = procedure
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure
+[submodule "task"]
+	path = task
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-task
