@@ -233,6 +233,20 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 			</plugins>
 		</pluginManagement>
 		<plugins>
+			<!-- Make the components of the current version available as parsedVersion.* properties -->
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>build-helper-maven-plugin</artifactId>
+				<version>1.12</version>
+				<executions>
+					<execution>
+						<id>parse-version</id>
+						<goals>
+							<goal>parse-version</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
 			<!--
 			<plugin>
 				<groupId>org.sonatype.plugins</groupId>
