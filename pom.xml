@@ -56,7 +56,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 		<!-- Related Projects section for javadocs -->
 		<javadoc.relatedProjects><!-- Default is none --></javadoc.relatedProjects>
 		<!-- Google Analytics tracking code for the javadocs -->
-		<google.analytics.trackingId>UA-8801760-45</google.analytics.trackingId>
+		<google.analytics.trackingId><!-- TODO: New code -->UA-8801760-45</google.analytics.trackingId>
 	</properties>
 
 	<name>PragmaticKM</name>
