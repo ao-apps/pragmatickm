@@ -51,6 +51,8 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 / <a target="_top" href="${project.url}">${shortTitle}</a>]]></javadoc.breadcrumbs>
 		<!-- The HTML format of the description -->
 		<description.html>${project.description}</description.html>
+		<!-- Taglib reference line for javadocs -->
+		<javadoc.taglibReference><!-- Default is none --></javadoc.taglibReference>
 		<!-- Modules section for javadocs -->
 		<javadoc.modules><!-- Default is none --></javadoc.modules>
 		<!-- Related Projects section for javadocs -->
@@ -427,6 +429,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 		<ul>
 			<li><a target="_top" href="${project.url}">Project Home</a></li>
 			<li><a target="_top" href="${project.url}changelog">Changelog</a></li>
+			${javadoc.taglibReference}
 			<li><a target="_top" href="${project.url}apidocs/">API Docs</a></li>
 			<li><a target="_top" href="scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm">Maven Repository</a></li>
 			<li><a target="_top" href="${project.scm.url}">Git</a></li>
