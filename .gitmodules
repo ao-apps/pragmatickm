@@ -28,3 +28,6 @@
 [submodule "task"]
 	path = task
 	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-task
+[submodule "parent"]
+	path = parent
+	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-parent

@@ -1,5 +1,5 @@
 # [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [PragmaticKM](https://pragmatickm.com/)
-Parent POM for all [PragmaticKM](https://pragmatickm.com/) packages.
+Aggregator POM for all [PragmaticKM](https://pragmatickm.com/) packages.
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/)
@@ -10,6 +10,7 @@ Parent POM for all [PragmaticKM](https://pragmatickm.com/) packages.
 ## Modules
 * [PragmaticKM All](https://pragmatickm.com/all/)
 * [PragmaticKM Contact](https://pragmatickm.com/contact/)
+* [PragmaticKM Parent](https://pragmatickm.com/parent/)
 * [PragmaticKM Password](https://pragmatickm.com/password/)
 * [PragmaticKM Procedure](https://pragmatickm.com/procedure/)
 * [PragmaticKM Task](https://pragmatickm.com/task/)
