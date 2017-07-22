@@ -4,8 +4,8 @@ Aggregator POM for all [PragmaticKM](https://pragmatickm.com/) packages.
 ## Project Links
 * [Project Home](https://pragmatickm.com/)
 * [Changelog](https://pragmatickm.com/changelog)
-* [Maven Repository](scpexe://private.cvs.aoindustries.com/var/maven2/pragmatickm)
-* [Git](ssh://private.cvs.aoindustries.com/var/git/pragmatickm)
+* [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.pragmatickm%22%20AND%20a:%22pragmatickm%22)
+* [GitHub](https://github.com/aoindustries/pragmatickm)
 
 ## Modules
 * [PragmaticKM All](https://pragmatickm.com/all/)
