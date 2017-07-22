@@ -1,33 +1,18 @@
-[submodule "pragmatickm-contact"]
-	path = pragmatickm-contact
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact
-[submodule "pragmatickm-password"]
-	path = pragmatickm-password
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password
-[submodule "pragmatickm-procedure"]
-	path = pragmatickm-procedure
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure
-[submodule "pragmatickm-task"]
-	path = pragmatickm-task
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-task
-[submodule "pragmatickm-all"]
-	path = pragmatickm-all
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-all
 [submodule "all"]
 	path = all
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-all
+	url = git@github.com:aoindustries/pragmatickm-all.git
 [submodule "contact"]
 	path = contact
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-contact
-[submodule "password"]
-	path = password
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-password
-[submodule "procedure"]
-	path = procedure
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-procedure
-[submodule "task"]
-	path = task
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-task
+	url = git@github.com:aoindustries/pragmatickm-contact.git
 [submodule "parent"]
 	path = parent
-	url = ssh://private.cvs.aoindustries.com/var/git/pragmatickm-parent
+	url = git@github.com:aoindustries/pragmatickm-parent.git
+[submodule "password"]
+	path = password
+	url = git@github.com:aoindustries/pragmatickm-password.git
+[submodule "procedure"]
+	path = procedure
+	url = git@github.com:aoindustries/pragmatickm-procedure.git
+[submodule "task"]
+	path = task
+	url = git@github.com:aoindustries/pragmatickm-task.git
