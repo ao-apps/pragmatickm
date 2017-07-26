@@ -51,10 +51,12 @@ along with pragmatickm.  If not, see <http://www.gnu.org/licenses />.
 
 	<modules>
 		<!-- TODO: Idea: personal notes attached to any object -->
+		<module>book</module>
 		<module>all</module>
 		<module>all/book</module>
 		<module>contact</module>
 		<module>parent</module>
+		<module>parent/book</module>
 		<module>password</module>
 		<module>procedure</module>
 		<module>task</module>
