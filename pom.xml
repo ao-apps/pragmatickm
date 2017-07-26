@@ -60,5 +60,6 @@ along with pragmatickm.  If not, see <http://www.gnu.org/licenses />.
 		<module>password</module>
 		<module>procedure</module>
 		<module>task</module>
+		<module>website</module>
 	</modules>
 </project>
