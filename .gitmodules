@@ -16,3 +16,6 @@
 [submodule "task"]
 	path = task
 	url = git@github.com:aoindustries/pragmatickm-task.git
+[submodule "website"]
+	path = website
+	url = git@github.com:aoindustries/pragmatickm-website
