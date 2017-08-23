@@ -34,13 +34,13 @@ along with pragmatickm.  If not, see <http://www.gnu.org/licenses />.
 		description="@{documented.description}"
 		datePublished="2017-07-25T22:42:47-0500"
 	>
-		<core:child page="changelog.jspx" />
-		<core:child book="/all" page="/index.jspx" />
-		<core:child book="/contact" page="/index.jspx" />
-		<core:child book="/parent" page="/index.jspx" />
-		<core:child book="/password" page="/index.jspx" />
-		<core:child book="/procedure" page="/index.jspx" />
-		<core:child book="/task" page="/index.jspx" />
+		<core:child page="changelog" />
+		<core:child book="/all" page="/" />
+		<core:child book="/contact" page="/" />
+		<core:child book="/parent" page="/" />
+		<core:child book="/password" page="/" />
+		<core:child book="/procedure" page="/" />
+		<core:child book="/task" page="/" />
 		<ao:include
 			page="/ao-badges/badges.inc.jspx"
 			arg.projectStatus="${currentPage.property.projectStatus}"
@@ -50,24 +50,24 @@ along with pragmatickm.  If not, see <http://www.gnu.org/licenses />.
 			arg.license="${currentPage.property.license}"
 		/>
 		<p>
-			Aggregator POM for all <core:link page="index.jspx" /> packages.
+			Aggregator POM for all <core:link page="/" /> packages.
 		</p>
 		<section:section label="Project Links">
 			<ul>
-				<li><core:link page="index.jspx">Project Home</core:link></li>
-				<li><core:link page="changelog.jspx">Changelog</core:link></li>
+				<li><core:link page="/">Project Home</core:link></li>
+				<li><core:link page="changelog">Changelog</core:link></li>
 				<li><ao:a href="https://search.maven.org/#search%7Cgav%7C1%7Cg:%22@{documented.groupId}%22%20AND%20a:%22@{documented.artifactId}%22">Maven Central Repository</ao:a></li>
 				<li><ao:a href="@{documented.scm.url}">GitHub</ao:a></li>
 			</ul>
 		</section:section>
 		<section:section label="Modules">
 			<ul>
-				<li><core:link book="/all" page="/index.jspx" /></li>
-				<li><core:link book="/contact" page="/index.jspx" /></li>
-				<li><core:link book="/parent" page="/index.jspx" /></li>
-				<li><core:link book="/password" page="/index.jspx" /></li>
-				<li><core:link book="/procedure" page="/index.jspx" /></li>
-				<li><core:link book="/task" page="/index.jspx" /></li>
+				<li><core:link book="/all" page="/" /></li>
+				<li><core:link book="/contact" page="/" /></li>
+				<li><core:link book="/parent" page="/" /></li>
+				<li><core:link book="/password" page="/" /></li>
+				<li><core:link book="/procedure" page="/" /></li>
+				<li><core:link book="/task" page="/" /></li>
 			</ul>
 		</section:section>
 	</core:page>

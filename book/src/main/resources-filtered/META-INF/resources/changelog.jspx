@@ -234,7 +234,7 @@ along with pragmatickm.  If not, see <http://www.gnu.org/licenses />.
 			scmUrl="@{documented.scm.url}"
 		>
 			<ul>
-				<li>New parent POM for all <core:link page="/index.jspx" /> components.</li>
+				<li>New parent POM for all <core:link page="/" /> components.</li>
 				<li>Using Git submodules on a per-module basis.</li>
 			</ul>
 		</changelog:release>
