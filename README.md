@@ -1,4 +1,4 @@
-# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [PragmaticKM](https://pragmatickm.com/)
+# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/aoindustries) [PragmaticKM](https://github.com/aoindustries/pragmatickm)
 <p>
 	<a href="https://aoindustries.com/life-cycle#project-current-stable">
 		<img src="https://pragmatickm.com/ao-badges/project-current-stable.svg" alt="project: current stable" />
@@ -18,7 +18,7 @@
 	</a>
 </p>
 
-Aggregator POM for all [PragmaticKM](https://pragmatickm.com/) packages.
+Aggregator POM for all [PragmaticKM](https://github.com/aoindustries/pragmatickm) packages.
 
 ## Project Links
 * [Project Home](https://pragmatickm.com/)
@@ -27,12 +27,12 @@ Aggregator POM for all [PragmaticKM](https://pragmatickm.com/) packages.
 * [GitHub](https://github.com/aoindustries/pragmatickm)
 
 ## Modules
-* [PragmaticKM All](https://pragmatickm.com/all/)
-* [PragmaticKM Contact](https://pragmatickm.com/contact/)
-* [PragmaticKM Parent](https://pragmatickm.com/parent/)
-* [PragmaticKM Password](https://pragmatickm.com/password/)
-* [PragmaticKM Procedure](https://pragmatickm.com/procedure/)
-* [PragmaticKM Task](https://pragmatickm.com/task/)
+* [PragmaticKM All](https://github.com/aoindustries/pragmatickm-all)
+* [PragmaticKM Contact](https://github.com/aoindustries/pragmatickm-contact)
+* [PragmaticKM Parent](https://github.com/aoindustries/pragmatickm-parent)
+* [PragmaticKM Password](https://github.com/aoindustries/pragmatickm-password)
+* [PragmaticKM Procedure](https://github.com/aoindustries/pragmatickm-procedure)
+* [PragmaticKM Task](https://github.com/aoindustries/pragmatickm-task)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):
