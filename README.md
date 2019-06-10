@@ -27,6 +27,7 @@ Aggregator POM for all [PragmaticKM](https://github.com/aoindustries/pragmatickm
 * [GitHub](https://github.com/aoindustries/pragmatickm)
 
 ## Modules
+* [PragmaticKM BOM](https://github.com/aoindustries/pragmatickm-bom)
 * [PragmaticKM All](https://github.com/aoindustries/pragmatickm-all)
 * [PragmaticKM Contact](https://github.com/aoindustries/pragmatickm-contact)
 * [PragmaticKM Parent](https://github.com/aoindustries/pragmatickm-parent)
