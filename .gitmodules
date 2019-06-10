@@ -19,3 +19,6 @@
 [submodule "website"]
 	path = website
 	url = git@github.com:aoindustries/pragmatickm-website
+[submodule "bom"]
+	path = bom
+	url = git@aoindustries.github.com:aoindustries/pragmatickm-bom.git
