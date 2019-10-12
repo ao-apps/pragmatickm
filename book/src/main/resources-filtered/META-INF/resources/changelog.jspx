@@ -36,7 +36,7 @@ along with pragmatickm.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2017-07-25T22:42:47-0500"
-		dateModified="2019-09-30T10:53:44-0500"
+		dateModified="2019-10-12T09:39:40-0500"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.pragmatickm:pragmatickm:pom.version}" />
@@ -57,6 +57,25 @@ along with pragmatickm.  If not, see <http://www.gnu.org/licenses />.
 				</ul>
 			</changelog:release>
 		</c:if>
+
+		<changelog:release
+			projectName="@{documented.name}"
+			version="1.8.0"
+			datePublished="2019-10-12T09:39:40-0500"
+			groupId="@{documented.groupId}"
+			artifactId="@{documented.artifactId}"
+			scmUrl="@{documented.scm.url}"
+		>
+			<ul>
+				<li>Updated version of <core:link book="/bom" page="/" />.</li>
+				<li>Updated version of <core:link book="/all" page="/" />.</li>
+				<li>Updated version of <core:link book="/contact" page="/" />.</li>
+				<li>Updated version of <core:link book="/parent" page="/" />.</li>
+				<li>Updated version of <core:link book="/password" page="/" />.</li>
+				<li>Updated version of <core:link book="/procedure" page="/" />.</li>
+				<li>Updated version of <core:link book="/task" page="/" />.</li>
+			</ul>
+		</changelog:release>
 
 		<changelog:release
 			projectName="@{documented.name}"
