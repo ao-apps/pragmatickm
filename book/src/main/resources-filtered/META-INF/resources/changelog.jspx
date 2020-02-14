@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 pragmatickm - Aggregator POM for all PragmaticKM packages.
-Copyright (C) 2017, 2019  AO Industries, Inc.
+Copyright (C) 2017, 2019, 2020  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
     Mobile, AL 36695
@@ -36,7 +36,7 @@ along with pragmatickm.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2017-07-25T22:42:47-0500"
-		dateModified="2019-10-20T05:53:01-0500"
+		dateModified="2020-02-14T00:52:22-0600"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.pragmatickm:pragmatickm:pom.version}" />
@@ -55,6 +55,9 @@ along with pragmatickm.  If not, see <http://www.gnu.org/licenses />.
 				<ul>
 					<li>Updated version of <core:link book="/bom" page="/index.jspx" />.</li>
 					<li>Updated version of <core:link book="/all" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/contact" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/password" page="/index.jspx" />.</li>
+					<li>Updated version of <core:link book="/procedure" page="/index.jspx" />.</li>
 					<li>Updated version of <core:link book="/task" page="/index.jspx" />.</li>
 				</ul>
 			</changelog:release>
