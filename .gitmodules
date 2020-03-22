@@ -1,24 +1,32 @@
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/pragmatickm-all.git
+	branch = .
 [submodule "contact"]
 	path = contact
 	url = git@github.com:aoindustries/pragmatickm-contact.git
+	branch = .
 [submodule "parent"]
 	path = parent
 	url = git@github.com:aoindustries/pragmatickm-parent.git
+	branch = .
 [submodule "password"]
 	path = password
 	url = git@github.com:aoindustries/pragmatickm-password.git
+	branch = .
 [submodule "procedure"]
 	path = procedure
 	url = git@github.com:aoindustries/pragmatickm-procedure.git
+	branch = .
 [submodule "task"]
 	path = task
 	url = git@github.com:aoindustries/pragmatickm-task.git
+	branch = .
 [submodule "website"]
 	path = website
 	url = git@github.com:aoindustries/pragmatickm-website
+	branch = .
 [submodule "bom"]
 	path = bom
 	url = git@aoindustries.github.com:aoindustries/pragmatickm-bom.git
+	branch = .
