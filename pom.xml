@@ -45,6 +45,11 @@ along with pragmatickm.  If not, see <http://www.gnu.org/licenses />.
 		<tag>HEAD</tag>
 	</scm>
 
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/aoindustries/pragmatickm/issues</url>
+	</issueManagement>
+
 	<modules>
 		<!-- TODO: Idea: personal notes attached to any object -->
 		<module>book</module>
