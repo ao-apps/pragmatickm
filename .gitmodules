@@ -1,3 +1,7 @@
+[submodule "bom"]
+	path = bom
+	url = git@github.com:aoindustries/pragmatickm-bom.git
+	branch = .
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/pragmatickm-all.git
@@ -25,8 +29,4 @@
 [submodule "website"]
 	path = website
 	url = git@github.com:aoindustries/pragmatickm-website
-	branch = .
-[submodule "bom"]
-	path = bom
-	url = git@aoindustries.github.com:aoindustries/pragmatickm-bom.git
 	branch = .
