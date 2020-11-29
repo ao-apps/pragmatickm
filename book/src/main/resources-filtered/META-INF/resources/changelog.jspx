@@ -37,7 +37,7 @@ along with pragmatickm.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2017-07-25T22:42:47-0500"
-		dateModified="2020-11-18T22:44:31-06:00"
+		dateModified="2020-11-28T22:12:57-06:00"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.pragmatickm:pragmatickm:pom.version}" />
@@ -55,14 +55,26 @@ along with pragmatickm.  If not, see <http://www.gnu.org/licenses />.
 			>
 				<ul>
 					<li>Updated for <ao:a href="https://semanticcms.com/">SemanticCMS</ao:a> 2.</li>
-					<li>Updated version of <core:link book="/bom" page="/" />.</li>
-					<li>Updated version of <core:link book="/all" page="/" />.</li>
-					<li>Updated version of <core:link book="/parent" page="/" />.</li>
-					<li>Updated version of <core:link book="/password" page="/" />.</li>
-					<li>Updated version of <core:link book="/task" page="/" />.</li>
 				</ul>
 			</changelog:release>
 		</c:if>
+
+		<changelog:release
+			projectName="@{documented.name}"
+			version="1.14.0"
+			datePublished="2020-11-28T22:12:57-06:00"
+			groupId="@{project.groupId}"
+			artifactId="@{documented.artifactId}"
+			scmUrl="@{project.scm.url}"
+		>
+			<ul>
+				<li>Updated version of <core:link book="/bom" page="/" />.</li>
+				<li>Updated version of <core:link book="/all" page="/" />.</li>
+				<li>Updated version of <core:link book="/parent" page="/" />.</li>
+				<li>Updated version of <core:link book="/password" page="/" />.</li>
+				<li>Updated version of <core:link book="/task" page="/" />.</li>
+			</ul>
+		</changelog:release>
 
 		<changelog:release
 			projectName="@{documented.name}"
