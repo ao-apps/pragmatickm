@@ -28,5 +28,5 @@
 	branch = .
 [submodule "website"]
 	path = website
-	url = git@github.com:aoindustries/pragmatickm-website
+	url = git@github.com:aoindustries/pragmatickm-website.git
 	branch = .
