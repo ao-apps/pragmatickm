@@ -63,7 +63,7 @@ along with pragmatickm.  If not, see <http://www.gnu.org/licenses />.
 			scmUrl="@{project.scm.url}"
 		>
 			<ul>
-				<li>Updated version of <core:link book="/parent" page="/index.jspx" />.</li>
+				<li>Updated version of <core:link book="/parent" page="/" />.</li>
 			</ul>
 		</changelog:release>
 
