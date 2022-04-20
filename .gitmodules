@@ -1,32 +1,32 @@
 [submodule "bom"]
-	path = bom
-	url = git@github.com:ao-apps/pragmatickm-bom.git
-	branch = .
+  path = bom
+  url = git@github.com:ao-apps/pragmatickm-bom.git
+  branch = .
 [submodule "all"]
-	path = all
-	url = git@github.com:ao-apps/pragmatickm-all.git
-	branch = .
+  path = all
+  url = git@github.com:ao-apps/pragmatickm-all.git
+  branch = .
 [submodule "contact"]
-	path = contact
-	url = git@github.com:ao-apps/pragmatickm-contact.git
-	branch = .
+  path = contact
+  url = git@github.com:ao-apps/pragmatickm-contact.git
+  branch = .
 [submodule "parent"]
-	path = parent
-	url = git@github.com:ao-apps/pragmatickm-parent.git
-	branch = .
+  path = parent
+  url = git@github.com:ao-apps/pragmatickm-parent.git
+  branch = .
 [submodule "password"]
-	path = password
-	url = git@github.com:ao-apps/pragmatickm-password.git
-	branch = .
+  path = password
+  url = git@github.com:ao-apps/pragmatickm-password.git
+  branch = .
 [submodule "procedure"]
-	path = procedure
-	url = git@github.com:ao-apps/pragmatickm-procedure.git
-	branch = .
+  path = procedure
+  url = git@github.com:ao-apps/pragmatickm-procedure.git
+  branch = .
 [submodule "task"]
-	path = task
-	url = git@github.com:ao-apps/pragmatickm-task.git
-	branch = .
+  path = task
+  url = git@github.com:ao-apps/pragmatickm-task.git
+  branch = .
 [submodule "website"]
-	path = website
-	url = git@github.com:ao-apps/pragmatickm-website.git
-	branch = .
+  path = website
+  url = git@github.com:ao-apps/pragmatickm-website.git
+  branch = .
