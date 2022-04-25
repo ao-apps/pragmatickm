@@ -13,3 +13,6 @@
 
 # Removed extraneous space at end of line.
 11dd1c428d610eb9f5be0ad8836cc8d54263dd60
+
+# Performed automatic source code clean-up with rewrite-maven-plugin
+f2359bc8ce84331a472343b5e3c914e7776367f3
