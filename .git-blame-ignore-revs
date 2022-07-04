@@ -10,15 +10,19 @@
 
 # Significant manual code formatting clean-up…
 730965de9344adbb6865577030580cc4cae19490
+6ed52216dfc361dd03798f9adc29ceb5a77d10b7
 
 # Removed extraneous space at end of line.
 11dd1c428d610eb9f5be0ad8836cc8d54263dd60
 
 # Performed automatic source code clean-up with rewrite-maven-plugin
 6056c7e026ae0a19dd2ecfe48f27bf4e477e8927
+f2359bc8ce84331a472343b5e3c914e7776367f3
 
 # Performed automatic clean-up with org.openrewrite.java.cleanup.Cleanup
 6acb46c9031125d8ed09b421eb459d064506ee31
+b2590922050d13e12003aaf1700636af7778b2fd
 
 # Performed manual checkstyle clean-up
 aa77516f3a83a5b71d369bb0e004cb5f378c97e5
+d6be46428d77a0962291a24c5a0d3dc12c1bf7be
