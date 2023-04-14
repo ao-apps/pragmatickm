@@ -19,7 +19,7 @@ Aggregator POM for all [PragmaticKM](https://github.com/ao-apps/pragmatickm) pac
 ## Project Links
 * [Project Home](https://pragmatickm.com/)
 * [Changelog](https://pragmatickm.com/changelog)
-* [Maven Central Repository](https://central.sonatype.com/search?namespace=com.pragmatickm&q=a%3Apragmatickm)
+* [Maven Central Repository](https://central.sonatype.com/artifact/com.pragmatickm/pragmatickm)
 * [GitHub](https://github.com/ao-apps/pragmatickm)
 
 ## Modules
