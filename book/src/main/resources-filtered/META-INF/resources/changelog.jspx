@@ -37,7 +37,7 @@ along with pragmatickm.  If not, see <https://www.gnu.org/licenses/>.
     shortTitle="Changelog"
     tocLevels="1"
     datePublished="2017-07-25T22:42:47-05:00"
-    dateModified="2023-09-20T16:47:30Z"
+    dateModified="2023-10-06T05:29:23Z"
   >
     <c:set var="latestRelease" value="1.17.0" />
     <c:if test="${
@@ -55,6 +55,7 @@ along with pragmatickm.  If not, see <https://www.gnu.org/licenses/>.
       >
         <ul>
           <li>Updated for <ao:a href="https://semanticcms.com/">SemanticCMS</ao:a> 2.</li>
+          <li><code>ElementTag.evaluateAttributes(…)</code> no longer throws <code>IOException</code>.</li>
         </ul>
       </changelog:release>
     </c:if>
